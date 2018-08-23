@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="44c8eb6b-5ee4-48db-ac88-88c23b37bfd8" Scope="Web" Title="LAR Library Id Receiver Feature">
+  <ElementManifests>
+    <ElementManifest Location="LARLibraryIdReceiver\Elements.xml" />
+  </ElementManifests>
+</Feature>

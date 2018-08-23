@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="103c85d5-033e-4809-9b89-b4d523b9e2fe" Scope="Web" Title="LAR Groups Feature">
+  <ElementManifests>
+    <ElementManifest Location="LARGroupsInstance\Elements.xml" />
+    <ElementManifest Location="LARGroups\Elements.xml" />
+    <ElementFile Location="LARGroups\Schema.xml" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="7886f177-80b0-463b-9e95-7d34f94eb154" Scope="Web" Title="LAR Libraries Feature">
+  <ElementManifests>
+    <ElementManifest Location="LARLibraries\Elements.xml" />
+    <ElementFile Location="LARLibraries\Schema.xml" />
+    <ElementManifest Location="LARLibrariesInstance\Elements.xml" />
+  </ElementManifests>
+</Feature>

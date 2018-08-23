@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListUrl="Lists/LARLibraries">
+    <Receiver>
+      <Name>LARLibraryIdReceiverItemAdding</Name>
+      <Type>ItemAdding</Type>
+      <Assembly>LibraryActionReceiver2013, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f75e10ebd1e2ae48</Assembly>
+      <Class>LibraryActionReceiver2013.Receivers.LARLibraryIdReceiver.LARLibraryIdReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>LARLibraryIdReceiverItemUpdating</Name>
+      <Type>ItemUpdating</Type>
+      <Assembly>LibraryActionReceiver2013, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f75e10ebd1e2ae48</Assembly>
+      <Class>LibraryActionReceiver2013.Receivers.LARLibraryIdReceiver.LARLibraryIdReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>LARLibraryIdReceiverItemAdded</Name>
+      <Type>ItemAdded</Type>
+      <Assembly>LibraryActionReceiver2013, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f75e10ebd1e2ae48</Assembly>
+      <Class>LibraryActionReceiver2013.Receivers.LARLibraryIdReceiver.LARLibraryIdReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>LARLibraryIdReceiverItemUpdated</Name>
+      <Type>ItemUpdated</Type>
+      <Assembly>LibraryActionReceiver2013, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f75e10ebd1e2ae48</Assembly>
+      <Class>LibraryActionReceiver2013.Receivers.LARLibraryIdReceiver.LARLibraryIdReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>LARLibraryIdReceiverContextEvent</Name>
+      <Type>ContextEvent</Type>
+      <Assembly>LibraryActionReceiver2013, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f75e10ebd1e2ae48</Assembly>
+      <Class>LibraryActionReceiver2013.Receivers.LARLibraryIdReceiver.LARLibraryIdReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+  </Receivers>
+</Elements>

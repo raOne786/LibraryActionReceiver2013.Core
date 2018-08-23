@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D59D8FF-6630-4CC7-9C46-34D10AC26056}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LibraryActionReceiver2013</RootNamespace>
+    <AssemblyName>LibraryActionReceiver2013</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetOfficeVersion>15.0</TargetOfficeVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{C1CDDADD-2546-481F-9697-4EA41081F2FC};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <SandboxedSolution>False</SandboxedSolution>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.SharePoint">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.SharePoint.Client.ServerRuntime">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Receivers\LARLibraryIdReceiver\LARLibraryIdReceiver.cs" />
+    <Compile Include="Receivers\LARLibraryReceiver\LARLibraryReceiver.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="CustomActions\LARSettings\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{344f2e96-3cce-4147-8d2b-05e40cbf5d87}</SharePointProjectItemId>
+    </None>
+    <None Include="Features\LARSettings\LARSettings.feature">
+      <FeatureId>{337d4afb-caf4-4e7e-9a59-1491f4c81241}</FeatureId>
+    </None>
+    <None Include="Features\LARLibraryReceiver\LARLibraryReceiver.feature">
+      <FeatureId>{cf89e483-990c-4204-8ea2-ed3aa6bb7a7e}</FeatureId>
+    </None>
+    <None Include="Features\LARLibraryIdReceiver\LARLibraryIdReceiver.feature">
+      <FeatureId>{4fcfbc4f-14cb-4e8f-aa5b-9168147819f5}</FeatureId>
+    </None>
+    <None Include="Features\LARGroups\LARGroups.feature">
+      <FeatureId>{ec32333d-dc29-40ba-ab61-77eab278077b}</FeatureId>
+    </None>
+    <None Include="Features\LARLibraries\LARLibraries.feature">
+      <FeatureId>{939e1df2-16b2-4f70-9aaa-4f56ddc3118c}</FeatureId>
+    </None>
+    <None Include="Features\LARPermissionProfiles\LARPermissionProfiles.feature">
+      <FeatureId>{90bb38b1-a9a3-4dc0-924a-f8f3275511ca}</FeatureId>
+    </None>
+    <None Include="key.snk" />
+    <None Include="Lists\LARGroups\LARGroupsInstance\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{dfb916d3-06b4-4062-b1ae-2fd42142418e}</SharePointProjectItemId>
+    </None>
+    <None Include="Lists\LARGroups\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{4dcb3274-c035-4538-9d36-da129353618e}</SharePointProjectItemId>
+    </None>
+    <None Include="Lists\LARLibraries\LARLibrariesInstance\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{396aeeb0-9ea1-4003-864e-1ba1be2ac022}</SharePointProjectItemId>
+    </None>
+    <None Include="Lists\LARLibraries\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{00078704-001f-4722-9a75-23419247b889}</SharePointProjectItemId>
+    </None>
+    <None Include="Lists\LARPermissionProfiles\LARPermissionProfilesInstance\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{be7f3bf1-8096-4376-b809-5bb64386126f}</SharePointProjectItemId>
+    </None>
+    <None Include="Lists\LARPermissionProfiles\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{9bf4b7c5-8764-4d9b-b5cf-a152325649a3}</SharePointProjectItemId>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Package\Package.package">
+      <PackageId>{9605ef0e-fa8e-4cf9-a881-13b39529257c}</PackageId>
+    </None>
+    <None Include="Package\Package.Template.xml">
+      <DependentUpon>Package.package</DependentUpon>
+    </None>
+    <None Include="Receivers\LARLibraryIdReceiver\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{271f972c-3a59-404c-9e37-61d9ec24fd72}</SharePointProjectItemId>
+    </None>
+    <None Include="Receivers\LARLibraryReceiver\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{dc6962ba-d003-41a8-a071-bb4cc8d791f1}</SharePointProjectItemId>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LibraryActionReceiver2013.Core\LibraryActionReceiver.Core.csproj">
+      <Project>{4fd71445-ad8e-486c-a97b-4aaaa06991ef}</Project>
+      <Name>LibraryActionReceiver.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CustomActions\LARSettings\Elements.xml" />
+    <Content Include="Features\LARSettings\LARSettings.Template.xml">
+      <DependentUpon>LARSettings.feature</DependentUpon>
+    </Content>
+    <Content Include="Features\LARLibraryReceiver\LARLibraryReceiver.Template.xml">
+      <DependentUpon>LARLibraryReceiver.feature</DependentUpon>
+    </Content>
+    <Content Include="Features\LARLibraryIdReceiver\LARLibraryIdReceiver.Template.xml">
+      <DependentUpon>LARLibraryIdReceiver.feature</DependentUpon>
+    </Content>
+    <Content Include="Features\LARGroups\LARGroups.Template.xml">
+      <DependentUpon>LARGroups.feature</DependentUpon>
+    </Content>
+    <Content Include="Features\LARLibraries\LARLibraries.Template.xml">
+      <DependentUpon>LARLibraries.feature</DependentUpon>
+    </Content>
+    <Content Include="Features\LARPermissionProfiles\LARPermissionProfiles.Template.xml">
+      <DependentUpon>LARPermissionProfiles.feature</DependentUpon>
+    </Content>
+    <Content Include="Lists\LARGroups\Elements.xml" />
+    <Content Include="Lists\LARGroups\LARGroupsInstance\Elements.xml" />
+    <Content Include="Lists\LARGroups\Schema.xml" />
+    <Content Include="Lists\LARLibraries\Elements.xml" />
+    <Content Include="Lists\LARLibraries\LARLibrariesInstance\Elements.xml" />
+    <Content Include="Lists\LARLibraries\Schema.xml" />
+    <Content Include="Lists\LARPermissionProfiles\Elements.xml" />
+    <Content Include="Lists\LARPermissionProfiles\LARPermissionProfilesInstance\Elements.xml" />
+    <Content Include="Lists\LARPermissionProfiles\Schema.xml" />
+    <Content Include="Receivers\LARLibraryIdReceiver\Elements.xml" />
+    <Content Include="Receivers\LARLibraryReceiver\Elements.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(VSToolsPath)\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" Condition="'$(VSToolsPath)' != ''" />
+</Project>

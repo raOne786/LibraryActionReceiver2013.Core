@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="9605ef0e-fa8e-4cf9-a881-13b39529257c" solutionId="9605ef0e-fa8e-4cf9-a881-13b39529257c" resetWebServer="false" sharePointProductVersion="15.0" name="LibraryActionReceiver2013" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <customAssembly location="Newtonsoft.Json.dll" deploymentTarget="GlobalAssemblyCache" sourcePath="bin\Debug\Newtonsoft.Json.dll">
+      <safeControls>
+        <safeControl assemblyName="Newtonsoft.Json" namespaceName="Newtonsoft.Json" typeName="*" isSafeAgainstScript="false" />
+      </safeControls>
+    </customAssembly>
+    <projectOutputAssembly location="LibraryActionReceiver.Core.dll" deploymentTarget="GlobalAssemblyCache" projectPath="..\LibraryActionReceiver2013.Core\LibraryActionReceiver.Core.csproj" />
+  </assemblies>
+  <features>
+    <featureReference itemId="939e1df2-16b2-4f70-9aaa-4f56ddc3118c" />
+    <featureReference itemId="90bb38b1-a9a3-4dc0-924a-f8f3275511ca" />
+    <featureReference itemId="ec32333d-dc29-40ba-ab61-77eab278077b" />
+    <featureReference itemId="4fcfbc4f-14cb-4e8f-aa5b-9168147819f5" />
+    <featureReference itemId="cf89e483-990c-4204-8ea2-ed3aa6bb7a7e" />
+    <featureReference itemId="337d4afb-caf4-4e7e-9a59-1491f4c81241" />
+  </features>
+</package>

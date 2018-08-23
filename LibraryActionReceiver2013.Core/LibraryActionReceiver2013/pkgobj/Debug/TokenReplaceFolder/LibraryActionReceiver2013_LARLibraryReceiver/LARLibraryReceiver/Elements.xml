@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListTemplateId="101">
+    <Receiver>
+      <Name>LARLibraryReceiverItemAdding</Name>
+      <Type>ItemAdding</Type>
+      <Assembly>LibraryActionReceiver2013, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f75e10ebd1e2ae48</Assembly>
+      <Class>LibraryActionReceiver2013.Receivers.LARLibraryReceiver.LARLibraryReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>LARLibraryReceiverItemUpdating</Name>
+      <Type>ItemUpdating</Type>
+      <Assembly>LibraryActionReceiver2013, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f75e10ebd1e2ae48</Assembly>
+      <Class>LibraryActionReceiver2013.Receivers.LARLibraryReceiver.LARLibraryReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>LARLibraryReceiverItemDeleting</Name>
+      <Type>ItemDeleting</Type>
+      <Assembly>LibraryActionReceiver2013, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f75e10ebd1e2ae48</Assembly>
+      <Class>LibraryActionReceiver2013.Receivers.LARLibraryReceiver.LARLibraryReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>LARLibraryReceiverItemCheckingIn</Name>
+      <Type>ItemCheckingIn</Type>
+      <Assembly>LibraryActionReceiver2013, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f75e10ebd1e2ae48</Assembly>
+      <Class>LibraryActionReceiver2013.Receivers.LARLibraryReceiver.LARLibraryReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>LARLibraryReceiverItemCheckingOut</Name>
+      <Type>ItemCheckingOut</Type>
+      <Assembly>LibraryActionReceiver2013, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f75e10ebd1e2ae48</Assembly>
+      <Class>LibraryActionReceiver2013.Receivers.LARLibraryReceiver.LARLibraryReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>LARLibraryReceiverItemAdded</Name>
+      <Type>ItemAdded</Type>
+      <Assembly>LibraryActionReceiver2013, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f75e10ebd1e2ae48</Assembly>
+      <Class>LibraryActionReceiver2013.Receivers.LARLibraryReceiver.LARLibraryReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>LARLibraryReceiverItemUpdated</Name>
+      <Type>ItemUpdated</Type>
+      <Assembly>LibraryActionReceiver2013, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f75e10ebd1e2ae48</Assembly>
+      <Class>LibraryActionReceiver2013.Receivers.LARLibraryReceiver.LARLibraryReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>LARLibraryReceiverItemDeleted</Name>
+      <Type>ItemDeleted</Type>
+      <Assembly>LibraryActionReceiver2013, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f75e10ebd1e2ae48</Assembly>
+      <Class>LibraryActionReceiver2013.Receivers.LARLibraryReceiver.LARLibraryReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>LARLibraryReceiverItemCheckedIn</Name>
+      <Type>ItemCheckedIn</Type>
+      <Assembly>LibraryActionReceiver2013, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f75e10ebd1e2ae48</Assembly>
+      <Class>LibraryActionReceiver2013.Receivers.LARLibraryReceiver.LARLibraryReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>LARLibraryReceiverItemCheckedOut</Name>
+      <Type>ItemCheckedOut</Type>
+      <Assembly>LibraryActionReceiver2013, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f75e10ebd1e2ae48</Assembly>
+      <Class>LibraryActionReceiver2013.Receivers.LARLibraryReceiver.LARLibraryReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>LARLibraryReceiverContextEvent</Name>
+      <Type>ContextEvent</Type>
+      <Assembly>LibraryActionReceiver2013, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f75e10ebd1e2ae48</Assembly>
+      <Class>LibraryActionReceiver2013.Receivers.LARLibraryReceiver.LARLibraryReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+
+  </Receivers>
+</Elements>

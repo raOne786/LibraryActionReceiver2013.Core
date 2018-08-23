@@ -1,0 +1,1 @@
+bin\Debug\LibraryActionReceiver2013.wsp

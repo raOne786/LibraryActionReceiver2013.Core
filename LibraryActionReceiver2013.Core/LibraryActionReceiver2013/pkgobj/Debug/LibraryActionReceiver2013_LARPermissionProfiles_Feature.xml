@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="0fbc1e3f-8345-4e26-85fc-0fd112b28029" Scope="Web" Title="LAR Permission Profiles Feature">
+  <ElementManifests>
+    <ElementManifest Location="LARPermissionProfiles\Elements.xml" />
+    <ElementFile Location="LARPermissionProfiles\Schema.xml" />
+    <ElementManifest Location="LARPermissionProfilesInstance\Elements.xml" />
+  </ElementManifests>
+</Feature>

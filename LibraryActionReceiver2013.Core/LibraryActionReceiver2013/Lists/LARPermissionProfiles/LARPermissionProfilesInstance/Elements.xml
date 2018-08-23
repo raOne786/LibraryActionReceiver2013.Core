@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListInstance Title="LAR - Permission Profiles" OnQuickLaunch="FALSE" TemplateType="100" Url="Lists/LARPermissionProfiles" Description="Profiles of Permission" Hidden="TRUE"></ListInstance>
+</Elements>

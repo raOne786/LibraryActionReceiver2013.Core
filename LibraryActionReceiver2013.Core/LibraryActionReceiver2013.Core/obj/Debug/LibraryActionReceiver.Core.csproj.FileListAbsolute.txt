@@ -1,0 +1,212 @@
+C:\FL2\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\LibraryActionReceiver.Core.dll
+C:\FL2\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\LibraryActionReceiver.Core.pdb
+C:\FL2\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.CSharp.dll
+C:\FL2\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\FL2\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.dll
+C:\FL2\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\Newtonsoft.Json.dll
+C:\FL2\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\System.Data.DataSetExtensions.dll
+C:\FL2\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\System.Data.dll
+C:\FL2\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\System.dll
+C:\FL2\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\System.Xml.dll
+C:\FL2\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\System.Xml.Linq.dll
+C:\FL2\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.xml
+C:\FL2\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Client.xml
+C:\FL2\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\Newtonsoft.Json.xml
+C:\FL2\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\obj\Debug\LibraryActionReceiver.Core.dll
+C:\FL2\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\obj\Debug\LibraryActionReceiver.Core.pdb
+C:\Users\SPFarm\Desktop\PermisosDPS\2013\SharePoint Edu 2013 Projects\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\LibraryActionReceiver.Core.dll
+C:\Users\SPFarm\Desktop\PermisosDPS\2013\SharePoint Edu 2013 Projects\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\LibraryActionReceiver.Core.pdb
+C:\Users\SPFarm\Desktop\PermisosDPS\2013\SharePoint Edu 2013 Projects\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.CSharp.dll
+C:\Users\SPFarm\Desktop\PermisosDPS\2013\SharePoint Edu 2013 Projects\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\SPFarm\Desktop\PermisosDPS\2013\SharePoint Edu 2013 Projects\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\SPFarm\Desktop\PermisosDPS\2013\SharePoint Edu 2013 Projects\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SPFarm\Desktop\PermisosDPS\2013\SharePoint Edu 2013 Projects\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\SPFarm\Desktop\PermisosDPS\2013\SharePoint Edu 2013 Projects\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\System.Data.dll
+C:\Users\SPFarm\Desktop\PermisosDPS\2013\SharePoint Edu 2013 Projects\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\System.dll
+C:\Users\SPFarm\Desktop\PermisosDPS\2013\SharePoint Edu 2013 Projects\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\System.Xml.dll
+C:\Users\SPFarm\Desktop\PermisosDPS\2013\SharePoint Edu 2013 Projects\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\System.Xml.Linq.dll
+C:\Users\SPFarm\Desktop\PermisosDPS\2013\SharePoint Edu 2013 Projects\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.xml
+C:\Users\SPFarm\Desktop\PermisosDPS\2013\SharePoint Edu 2013 Projects\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Client.xml
+C:\Users\SPFarm\Desktop\PermisosDPS\2013\SharePoint Edu 2013 Projects\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SPFarm\Desktop\PermisosDPS\2013\SharePoint Edu 2013 Projects\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\obj\Debug\LibraryActionReceiver.Core.dll
+C:\Users\SPFarm\Desktop\PermisosDPS\2013\SharePoint Edu 2013 Projects\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\obj\Debug\LibraryActionReceiver.Core.pdb
+C:\Users\SPFarm\Desktop\PermisosDPS\2013\SharePoint Edu 2013 Projects\SharePoint Edu 2013 Projects\LibraryActionReceiver2013.Core\obj\Debug\LibraryActionReceiver.Core.csprojResolveAssemblyReference.cache
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\LibraryActionReceiver.Core.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\LibraryActionReceiver.Core.pdb
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\System.Data.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\System.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\System.Xml.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\System.Xml.Linq.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Client.ServerRuntime.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Web.CommandUI.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.BusinessData.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Security.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Server.UserProfiles.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\System.Spatial.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Server.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Taxonomy.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Server.Search.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Server.Search.Applications.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Portal.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Publishing.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Search.Extended.Administration.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Search.Extended.Administration.ResourceStorage.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Search.Extended.Administration.Common.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Server.Search.Connector.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Excel.Server.WebServices.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.DocumentManagement.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Policy.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.SecureStoreService.Server.Security.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Excel.Server.Udf.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.xml
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Client.xml
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.BusinessData.xml
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Security.xml
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Client.Runtime.xml
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Server.UserProfiles.xml
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\System.Spatial.xml
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Server.xml
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Taxonomy.xml
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Server.Search.xml
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Portal.xml
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Publishing.xml
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Server.Search.Connector.xml
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.DocumentManagement.xml
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Policy.xml
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\obj\Debug\LibraryActionReceiver.Core.dll
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\obj\Debug\LibraryActionReceiver.Core.pdb
+C:\Users\Fabrica.Software9\Desktop\TalentoHUmano\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\obj\Debug\LibraryActionReceiver.Core.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\LibraryActionReceiver.Core.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\LibraryActionReceiver.Core.pdb
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.CSharp.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\System.Data.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\System.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\System.Xml.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\System.Xml.Linq.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Client.ServerRuntime.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Web.CommandUI.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.BusinessData.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Security.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Server.UserProfiles.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\System.Spatial.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Server.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Taxonomy.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Server.Search.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Server.Search.Applications.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Portal.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Publishing.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Search.Extended.Administration.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Search.Extended.Administration.ResourceStorage.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.mshtml.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Search.Extended.Administration.Common.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Server.Search.Connector.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Excel.Server.WebServices.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.DocumentManagement.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Policy.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.xml
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.BusinessData.xml
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Security.xml
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Client.Runtime.xml
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Server.UserProfiles.xml
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\System.Spatial.xml
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Server.xml
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Taxonomy.xml
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Server.Search.xml
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Portal.xml
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.SharePoint.Publishing.xml
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Server.Search.Connector.xml
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.DocumentManagement.xml
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\Microsoft.Office.Policy.xml
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\obj\Debug\LibraryActionReceiver.Core.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\obj\Debug\LibraryActionReceiver.Core.dll
+C:\Users\User\Documents\Project\event receiver\LibraryActionReceiver2013.Core\LibraryActionReceiver2013.Core\obj\Debug\LibraryActionReceiver.Core.pdb

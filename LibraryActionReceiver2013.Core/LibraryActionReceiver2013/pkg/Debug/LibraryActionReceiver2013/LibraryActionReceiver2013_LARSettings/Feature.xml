@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="35cc0aa2-7e65-46cb-a4ce-b46b8a521958" Scope="Web" Title="LAR Settings Feature">
+  <ElementManifests>
+    <ElementManifest Location="LARSettings\Elements.xml" />
+  </ElementManifests>
+</Feature>

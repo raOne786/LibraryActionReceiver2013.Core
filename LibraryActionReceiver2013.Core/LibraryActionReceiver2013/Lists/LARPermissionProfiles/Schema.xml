@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<List xmlns:ows="Microsoft SharePoint" Title="LARPermissionProfiles" FolderCreation="FALSE" Direction="$Resources:Direction;" Url="Lists/LARPermissionProfiles" BaseType="0" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <MetaData>
+    <ContentTypes>
+
+
+
+
+
+      <ContentType ID="0x01009e08c3ec30b542a3bcdf6a0659864a25" Name="ListFieldsContentType">
+        <FieldRefs>
+
+
+
+
+
+
+
+          <FieldRef ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title" />
+          <FieldRef ID="{06b16591-eb10-4773-a535-64a75c20a8d1}" Name="LARCreateFolder" />
+          <FieldRef ID="{bbdb21ba-0872-4a52-8d32-29ab2b41d9e3}" Name="LAREditFolder" />
+          <FieldRef ID="{e2b04595-eda9-49e3-a6e0-95f7f7cad0d3}" Name="LARDeleteFolder" />
+          <FieldRef ID="{c71cce70-a572-4bdd-9dbc-cae6fb416b0f}" Name="LARCreateFile" />
+          <FieldRef ID="{0027760d-5bf4-4747-b47b-133d7c46e831}" Name="LAREditFile" />
+          <FieldRef ID="{bfa7bac2-cc07-4289-ae4e-aba09f80e261}" Name="LARDeleteFile" />
+          <FieldRef ID="{b6f28d8b-fc44-4469-92c3-f7e5aa763c0b}" Name="LARCanDeleteFolderWithFiles" />
+        </FieldRefs>
+      </ContentType>
+      <ContentTypeRef ID="0x01">
+        <Folder TargetName="Item" />
+      </ContentTypeRef>
+      <ContentTypeRef ID="0x0120" />
+    </ContentTypes>
+    <Fields>
+
+
+
+
+
+
+
+
+      <Field ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Type="Text" Name="Title" DisplayName="Profile Name" Required="TRUE" SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Title" MaxLength="255" />
+      <Field Name="LARCreateFolder" ID="{06b16591-eb10-4773-a535-64a75c20a8d1}" DisplayName="Can Create Folder?" Type="Boolean" />
+      <Field Name="LAREditFolder" ID="{bbdb21ba-0872-4a52-8d32-29ab2b41d9e3}" DisplayName="Can Edit Folder?" Type="Boolean" />
+      <Field Name="LARDeleteFolder" ID="{e2b04595-eda9-49e3-a6e0-95f7f7cad0d3}" DisplayName="Can Delete Folder?" Description="Can Delete Folder only if it is empty." Type="Boolean" />
+      <Field Name="LARCanDeleteFolderWithFiles" ID="{b6f28d8b-fc44-4469-92c3-f7e5aa763c0b}" DisplayName="Can Delete Folder with Files" Type="Boolean" />
+      
+      <Field Name="LARCreateFile" ID="{c71cce70-a572-4bdd-9dbc-cae6fb416b0f}" DisplayName="Can Create File?" Type="Boolean" />
+      <Field Name="LAREditFile" ID="{0027760d-5bf4-4747-b47b-133d7c46e831}" DisplayName="Can Edit File?" Type="Boolean" />
+      <Field Name="LARDeleteFile" ID="{bfa7bac2-cc07-4289-ae4e-aba09f80e261}" DisplayName="Can Delete File?" Type="Boolean" />
+      
+    </Fields>
+    <Views>
+
+
+
+
+      <View BaseViewID="0" Type="HTML" MobileView="TRUE" TabularView="FALSE">
+        <Toolbar Type="Standard" />
+        <XslLink Default="TRUE">main.xsl</XslLink>
+        <RowLimit Paged="TRUE">30</RowLimit>
+        <ViewFields>
+
+
+          <FieldRef Name="LinkTitleNoMenu"></FieldRef>
+        </ViewFields>
+        <Query>
+          <OrderBy>
+
+
+            <FieldRef Name="Modified" Ascending="FALSE"></FieldRef>
+          </OrderBy>
+        </Query>
+        <ParameterBindings>
+          <ParameterBinding Name="AddNewAnnouncement" Location="Resource(wss,addnewitem)" />
+          <ParameterBinding Name="NoAnnouncements" Location="Resource(wss,noXinviewofY_LIST)" />
+          <ParameterBinding Name="NoAnnouncementsHowTo" Location="Resource(wss,noXinviewofY_ONET_HOME)" />
+        </ParameterBindings>
+      </View>
+      <View BaseViewID="1" Type="HTML" WebPartZoneID="Main" DisplayName="$Resources:core,objectiv_schema_mwsidcamlidC24;" DefaultView="TRUE" MobileView="TRUE" MobileDefaultView="TRUE" SetupPath="pages\viewpage.aspx" ImageUrl="/_layouts/15/images/generic.png?rev=23" Url="AllItems.aspx">
+        <Toolbar Type="Standard" />
+        <XslLink Default="TRUE">main.xsl</XslLink>
+        <JSLink>clienttemplates.js</JSLink>
+        <RowLimit Paged="TRUE">30</RowLimit>
+        <ViewFields>
+
+
+
+
+
+
+
+
+          <FieldRef Name="LinkTitle"></FieldRef>
+          <FieldRef Name="LARCreateFile" />
+          <FieldRef Name="LAREditFile" />
+          <FieldRef Name="LARDeleteFile" />
+          <FieldRef Name="LARCreateFolder" />
+          <FieldRef Name="LAREditFolder" />
+          <FieldRef Name="LARDeleteFolder" />
+          <FieldRef Name="LARCanDeleteFolderWithFiles" />
+        </ViewFields>
+        <Query>
+          <OrderBy>
+
+
+            <FieldRef Name="ID"></FieldRef>
+          </OrderBy>
+        </Query>
+        <ParameterBindings>
+          <ParameterBinding Name="NoAnnouncements" Location="Resource(wss,noXinviewofY_LIST)" />
+          <ParameterBinding Name="NoAnnouncementsHowTo" Location="Resource(wss,noXinviewofY_DEFAULT)" />
+        </ParameterBindings>
+      </View>
+    </Views>
+    <Forms>
+      <Form Type="DisplayForm" Url="DispForm.aspx" SetupPath="pages\form.aspx" WebPartZoneID="Main" />
+      <Form Type="EditForm" Url="EditForm.aspx" SetupPath="pages\form.aspx" WebPartZoneID="Main" />
+      <Form Type="NewForm" Url="NewForm.aspx" SetupPath="pages\form.aspx" WebPartZoneID="Main" />
+    </Forms>
+  </MetaData>
+</List>

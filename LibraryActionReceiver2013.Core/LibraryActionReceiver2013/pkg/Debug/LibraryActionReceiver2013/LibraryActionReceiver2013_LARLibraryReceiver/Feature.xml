@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Event Receiver responsible for performing the custom permission checks." Id="1b4ccaa6-b828-4b23-9c97-aa663126f786" Scope="Site" Title="LAR Library Receiver Feature">
+  <ElementManifests>
+    <ElementManifest Location="LARLibraryReceiver\Elements.xml" />
+  </ElementManifests>
+</Feature>

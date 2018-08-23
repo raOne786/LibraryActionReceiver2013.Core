@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<List xmlns:ows="Microsoft SharePoint" Title="LARLibraries" FolderCreation="FALSE" Direction="$Resources:Direction;" Url="Lists/LARLibraries" BaseType="0" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <MetaData>
+    <ContentTypes>
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+      
+    <ContentType ID="0x0100af0741a8bab947758f44353e0a788d75" Name="ListFieldsContentType">
+        <FieldRefs>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+          
+          
+          
+          
+          
+        <FieldRef ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title" /><FieldRef ID="{259613a9-4473-431f-90ab-d4296453635f}" Name="LARDescription" /><FieldRef ID="{c5169164-687e-414f-81ea-39ffd56675c2}" Name="LARLibraryUrl" /><FieldRef ID="{53a4e692-9a35-419d-a56a-1e8c28bf58d9}" Name="LARMessageForUser" /><FieldRef ID="{dc836463-fc4d-46c2-b021-6b84b259f906}" Name="LARLibraryId" /><FieldRef ID="{a2da8741-0109-4293-b9b3-7645c7923cc1}" Name="LARActive" /></FieldRefs>
+      </ContentType><ContentTypeRef ID="0x01">
+        <Folder TargetName="Item" />
+      </ContentTypeRef><ContentTypeRef ID="0x0120" /></ContentTypes>
+    <Fields>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+      
+      
+      
+      
+    <Field ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Type="Text" Name="Title" DisplayName="Library Title" Required="TRUE" SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Title" MaxLength="255" /><Field Name="LARDescription" ID="{259613a9-4473-431f-90ab-d4296453635f}" DisplayName="Description" Type="Note" Required="TRUE" /><Field Name="LARLibraryUrl" Description="Insert list library absolute url. http://{site}/{library}" ID="{c5169164-687e-414f-81ea-39ffd56675c2}" DisplayName="Library Url" Type="URL" Required="TRUE" /><Field Name="LARMessageForUser" ID="{53a4e692-9a35-419d-a56a-1e8c28bf58d9}" DisplayName="Message for User" Type="Text" Required="TRUE" /><Field Name="LARLibraryId" ID="{dc836463-fc4d-46c2-b021-6b84b259f906}" DisplayName="Library Id" Type="Text" Required="FALSE" /><Field Name="LARActive" ID="{a2da8741-0109-4293-b9b3-7645c7923cc1}" DisplayName="Active" Type="Boolean" Required="TRUE">
+        <Default>1</Default>
+      </Field></Fields>
+    <Views>
+
+
+
+
+
+
+
+
+      
+      
+    <View BaseViewID="0" Type="HTML" MobileView="TRUE" TabularView="FALSE">
+        <Toolbar Type="Standard" />
+        <XslLink Default="TRUE">main.xsl</XslLink>
+        <RowLimit Paged="TRUE">30</RowLimit>
+        <ViewFields>
+
+
+
+
+          
+        <FieldRef Name="LinkTitleNoMenu"></FieldRef></ViewFields>
+        <Query>
+          <OrderBy>
+
+
+
+
+            
+          <FieldRef Name="Modified" Ascending="FALSE"></FieldRef></OrderBy>
+        </Query>
+        <ParameterBindings>
+          <ParameterBinding Name="AddNewAnnouncement" Location="Resource(wss,addnewitem)" />
+          <ParameterBinding Name="NoAnnouncements" Location="Resource(wss,noXinviewofY_LIST)" />
+          <ParameterBinding Name="NoAnnouncementsHowTo" Location="Resource(wss,noXinviewofY_ONET_HOME)" />
+        </ParameterBindings>
+      </View><View BaseViewID="1" Type="HTML" WebPartZoneID="Main" DisplayName="$Resources:core,objectiv_schema_mwsidcamlidC24;" DefaultView="TRUE" MobileView="TRUE" MobileDefaultView="TRUE" SetupPath="pages\viewpage.aspx" ImageUrl="/_layouts/15/images/generic.png?rev=23" Url="AllItems.aspx">
+        <Toolbar Type="Standard" />
+        <XslLink Default="TRUE">main.xsl</XslLink>
+        <JSLink>clienttemplates.js</JSLink>
+        <RowLimit Paged="TRUE">30</RowLimit>
+        <ViewFields>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+          
+          
+          
+          
+          
+          
+        <FieldRef Name="Edit" /><FieldRef Name="Title" /><FieldRef Name="LARDescription" /><FieldRef Name="LARLibraryUrl" /><FieldRef Name="LARActive" /><FieldRef Name="LARMessageForUser" /><FieldRef Name="LARLibraryId" /></ViewFields>
+        <Query>
+          <OrderBy>
+
+
+
+
+            
+          <FieldRef Name="ID"></FieldRef></OrderBy>
+        </Query>
+        <ParameterBindings>
+          <ParameterBinding Name="NoAnnouncements" Location="Resource(wss,noXinviewofY_LIST)" />
+          <ParameterBinding Name="NoAnnouncementsHowTo" Location="Resource(wss,noXinviewofY_DEFAULT)" />
+        </ParameterBindings>
+      </View></Views>
+    <Forms>
+      <Form Type="DisplayForm" Url="DispForm.aspx" SetupPath="pages\form.aspx" WebPartZoneID="Main" />
+      <Form Type="EditForm" Url="EditForm.aspx" SetupPath="pages\form.aspx" WebPartZoneID="Main" />
+      <Form Type="NewForm" Url="NewForm.aspx" SetupPath="pages\form.aspx" WebPartZoneID="Main" />
+    </Forms>
+  </MetaData>
+</List>

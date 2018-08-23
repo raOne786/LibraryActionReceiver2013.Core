@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+
+
+  <CustomActionGroup Description="Group for LAR Settings" Id="LAR.Settings"
+      Location="Microsoft.SharePoint.SiteSettings"
+Sequence="100" Title="Library Action Receiver Settings">
+  </CustomActionGroup>
+
+
+  <CustomAction GroupId="LAR.Settings" Id="LAR.Groups"
+ Location="Microsoft.SharePoint.SiteSettings" Sequence="20" Title="Groups" Description="Groups that will run the receiver">
+    <UrlAction Url="~site/Lists/LARGroups" />
+  </CustomAction>
+
+  <CustomAction GroupId="LAR.Settings" Id="LAR.Libraries"
+ Location="Microsoft.SharePoint.SiteSettings" Sequence="21" Title="Libraries" Description="Libraries that will run the receiver">
+    <UrlAction Url="~site/Lists/LARLibraries" />
+  </CustomAction>
+
+  <CustomAction GroupId="LAR.Settings" Id="LAR.Libraries"
+ Location="Microsoft.SharePoint.SiteSettings" Sequence="21" Title="Permission Profiles" Description="Permission Profiles for Groups">
+    <UrlAction Url="~site/Lists/LARPermissionProfiles" />
+  </CustomAction>
+
+</Elements>
